@@ -69,4 +69,4 @@ https://www.loom.com/share/8df5285fb664421e9261252239c667a0
 
 
 See reported bug on issue tracker
-(https://issuetracker.google.com/issues/313971435)[https://issuetracker.google.com/issues/313971435]
+[https://issuetracker.google.com/issues/313971435](https://issuetracker.google.com/issues/313971435)
