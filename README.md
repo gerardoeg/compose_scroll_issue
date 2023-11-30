@@ -66,3 +66,7 @@ https://www.loom.com/share/eb24a064d0a54d68b7c3deebf80ea087
 
 Jetpack Compose Scroll Issue - expected behavior
 https://www.loom.com/share/8df5285fb664421e9261252239c667a0
+
+
+See reported bug on issue tracker
+(https://issuetracker.google.com/issues/313971435)[https://issuetracker.google.com/issues/313971435]
